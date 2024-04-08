@@ -1,5 +1,6 @@
 {
-  "item.create-unstable-additions.tin-ingot": "Tin Ingot",
-  "item.create-unstable-additions.redstone-ingot": "Redstone Ingot",
-  "item.create-unstable-additions.bronze-ingot": "Bronze Ingot"
+  "item.create-unstable-additions.tin_ingot": "Tin Ingot",
+  "item.create-unstable-additions.redstone_ingot": "Redstone Ingot",
+  "item.create-unstable-additions.bronze_ingot": "Bronze Ingot",
+  "item.create-unstable-additions.reactor_ingot": "Reactor Alloy Ingot"
 }

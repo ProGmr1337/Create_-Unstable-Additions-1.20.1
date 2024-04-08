@@ -11,14 +11,16 @@ import net.minecraft.util.Identifier;
 import net.willdestroyer2.create_unstable_additions.CreateUnstableAdditions;
 
 public class ModItems {
-    public static final Item TIN = registerItem("tin-ingot", new Item(new FabricItemSettings()));
-    public static final Item REDSTONE_INGOT = registerItem("redstone-ingot", new Item(new FabricItemSettings()));
-    public static final Item BRONZE_INGOT = registerItem("bronze-ingot", new Item(new FabricItemSettings()));
+    public static final Item TIN = registerItem("tin_ingot", new Item(new FabricItemSettings()));
+    public static final Item REDSTONE_INGOT = registerItem("redstone_ingot", new Item(new FabricItemSettings()));
+    public static final Item BRONZE_INGOT = registerItem("bronze_ingot", new Item(new FabricItemSettings()));
+    public static final Item REACTOR_INGOT = registerItem("reactor_ingot", new Item(new FabricItemSettings()));
 
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
         entries.add(TIN);
         entries.add(REDSTONE_INGOT);
         entries.add(BRONZE_INGOT);
+        entries.add(REACTOR_INGOT);
     }
 
     private static Item registerItem(String name, Item item) {

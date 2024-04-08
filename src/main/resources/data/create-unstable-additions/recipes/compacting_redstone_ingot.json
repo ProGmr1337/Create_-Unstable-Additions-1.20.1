@@ -1,0 +1,28 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "fluid": "minecraft:lava",
+      "amount": 1000
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "create-unstable-additions:redstone_ingot",
+      "count": 2
+    }
+  ],
+  "heatRequirement": "heated"
+}
