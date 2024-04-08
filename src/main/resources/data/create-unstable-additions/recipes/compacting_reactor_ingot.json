@@ -1,15 +1,15 @@
 {
-  "type": "create:mixing",
+  "type": "create:compacting",
   "ingredients": [
     {
       "fluid": "minecraft:lava",
       "amount": 1000
     },
     {
-      "item": "minecraft:iron"
+      "item": "minecraft:iron_ingot"
     },
     {
-      "item": "minecraft:zinc"
+      "item": "create:zinc_ingot"
     },
     {
       "item": "create:brass_ingot"
