@@ -1,0 +1,8 @@
+// 1.20.1	2024-04-14T14:05:06.6643617	Create: Unstable Additions/Tags for minecraft:block
+f5bee5327ec50f21e39ddc8c47e4a881fcc8b931 data\minecraft\tags\blocks\needs_diamond_tool.json
+67757d5d259ca9923ed2d2c6449a57369b5acc1f data\minecraft\tags\blocks\needs_iron_tool.json
+ced2dbe6db316d20cf16eedff82ea04666e1a469 data\minecraft\tags\blocks\mineable\pickaxe.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\shovel.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_stone_tool.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\axe.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\hoe.json

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "ingredients",
+  "pattern": [
+    " W ",
+    " S ",
+    " W "
+  ],
+  "key": {
+    "W": {
+      "item": "create:iron_sheet"
+    },
+    "S": {
+      "item": "create-unstable-additions:iron_rod"
+    }
+  },
+  "result": {
+    "item": "create-unstable-additions:empty_spool",
+    "count": 16
+  }
+}

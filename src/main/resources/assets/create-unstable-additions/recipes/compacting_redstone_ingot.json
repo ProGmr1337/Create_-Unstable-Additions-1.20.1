@@ -3,7 +3,7 @@
   "ingredients": [
     {
       "fluid": "minecraft:lava",
-      "amount": 1000
+      "amount": 40500
     },
     {
       "item": "minecraft:redstone"

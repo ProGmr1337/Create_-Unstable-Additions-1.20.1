@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 300,
+  "experience": 10.0,
+  "ingredient": {
+    "item": "create-unstable-additions:raw_uranium"
+  },
+  "result": "create-unstable-additions:inert_uranium"
+}

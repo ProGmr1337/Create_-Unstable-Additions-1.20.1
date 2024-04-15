@@ -1,0 +1,5 @@
+// 1.20.1	2024-04-14T14:05:06.6633634	Create: Unstable Additions/World Gen
+977c691665c26922958ab1c035f473946613c539 data\create-unstable-additions\worldgen\configured_feature\tin_ore.json
+caa60a858a37d89b556465c13abf873979c38c6b data\create-unstable-additions\worldgen\placed_feature\tin_ore_placed.json
+b032eea2788597a238377c85c9a44ccc9559709a data\create-unstable-additions\worldgen\placed_feature\uranium_ore_placed.json
+c955c66cfa800d2f56970179dd314d9cc65b0621 data\create-unstable-additions\worldgen\configured_feature\uranium_ore.json

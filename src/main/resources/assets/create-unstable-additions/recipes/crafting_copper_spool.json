@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "ingredients",
+  "pattern": [
+    " W ",
+    "WSW",
+    " W "
+  ],
+  "key": {
+    "W": {
+      "item": "create-unstable-additions:copper_wire"
+    },
+    "S": {
+      "item": "create-unstable-additions:empty_spool"
+    }
+  },
+  "result": {
+    "item": "create-unstable-additions:copper_spool"
+  }
+}

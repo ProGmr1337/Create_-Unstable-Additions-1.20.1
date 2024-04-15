@@ -1,0 +1,4 @@
+// 1.20.1	2024-04-14T14:05:06.6653628	Create: Unstable Additions/Block Loot Tables
+2fd110a244096de2c63d1b66ee63fcb0698ef816 data\create-unstable-additions\loot_tables\blocks\tin_ore.json
+a01a4fedb73e6cf22afc22567189dfc3f6b967c2 data\create-unstable-additions\loot_tables\blocks\deepslate_tin_ore.json
+f8be89fd27295a701e6e56765c31e4aefd63c9ae data\create-unstable-additions\loot_tables\blocks\uranium_ore.json

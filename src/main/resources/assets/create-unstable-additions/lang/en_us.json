@@ -1,6 +1,18 @@
 {
   "item.create-unstable-additions.tin_ingot": "Tin Ingot",
+  "item.create-unstable-additions.raw_tin": "Raw Tin",
   "item.create-unstable-additions.redstone_ingot": "Redstone Ingot",
   "item.create-unstable-additions.bronze_ingot": "Bronze Ingot",
-  "item.create-unstable-additions.reactor_ingot": "Reactor Alloy Ingot"
+  "item.create-unstable-additions.reactor_ingot": "Reactor Alloy Ingot",
+  "item.create-unstable-additions.copper_spool": "Copper Spool",
+  "item.create-unstable-additions.empty_spool": "Empty Spool",
+  "item.create-unstable-additions.copper_wire": "Copper Wire",
+  "item.create-unstable-additions.iron_rod": "Iron Rod",
+  "item.create-unstable-additions.raw_uranium": "Raw Uranium",
+  "item.create-unstable-additions.refined_uranium": "Uranium",
+  "item.create-unstable-additions.inert_uranium": "Inert Uranium",
+
+  "block.create-unstable-additions.uranium_ore": "Deepslate Uranium Ore",
+  "block.create-unstable-additions.deepslate_tin_ore": "Deepslate Tin Ore",
+  "block.create-unstable-additions.tin_ore": "Tin Ore"
 }
